@@ -14,3 +14,8 @@ Q.What date is it today?
 
 
 Q.What time is it now?
+
+
+Q.How many questions have I asked so far?
+
+
