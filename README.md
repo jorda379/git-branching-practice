@@ -1,1 +1,1 @@
-A: I have now clue (three) !
+A: Three questions.
